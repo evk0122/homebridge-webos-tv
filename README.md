@@ -2,6 +2,8 @@
 
 # homebridge-webos-tv
 ## HomeKit integration for LG webOS TVs how it's supposed to be
+  
+  This is fork from original project to fix webOS 2.0 TV ON and OFF issues.
 
 [![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins#verified-plugins)
 [![homebridge-webos-tv](https://badgen.net/npm/v/homebridge-webos-tv?icon=npm)](https://www.npmjs.com/package/homebridge-webos-tv)
